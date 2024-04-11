@@ -1,1 +1,1 @@
-# Self Projects
+# Self Projects and implementation of algorithms
